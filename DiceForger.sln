@@ -14,7 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console", "Console\Console.csproj", "{035E8659-D511-4592-85AC-E8B970887120}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "Api\Api.csproj", "{6D88C485-0639-40CE-95A5-30D191E3A7F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,10 +30,10 @@ Global
 		{44169724-998D-4407-88E1-B02B97491EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44169724-998D-4407-88E1-B02B97491EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44169724-998D-4407-88E1-B02B97491EA3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{035E8659-D511-4592-85AC-E8B970887120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{035E8659-D511-4592-85AC-E8B970887120}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{035E8659-D511-4592-85AC-E8B970887120}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{035E8659-D511-4592-85AC-E8B970887120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D88C485-0639-40CE-95A5-30D191E3A7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D88C485-0639-40CE-95A5-30D191E3A7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D88C485-0639-40CE-95A5-30D191E3A7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D88C485-0639-40CE-95A5-30D191E3A7F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
